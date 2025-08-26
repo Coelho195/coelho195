@@ -12,7 +12,7 @@ Estudante de dados e em transição de carreira para a área de *Business Intell
 
 ## 🛠️ Tecnologias e Ferramentas  
 - Power BI  
-- Excel Avançado  
+- Excel   
 - PostgreSQL
 - Python (aprendizado em andamento)
 
