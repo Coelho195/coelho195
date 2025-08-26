@@ -4,7 +4,7 @@ Estudante de dados e em transição de carreira para a área de *Business Intell
 
 
 ## Sobre mim  
-- Concluí formações em Business Intelligence, Estatística para Análise de Dados, Power BI e SQL 
+- Certificações em Business Intelligence, Estatística para Análise de Dados, Power BI e SQL 
 - Atualmente estudando Python (aprendizado em andamento para análise de dados) 
 - Buscando minha primeira oportunidade como Analista de Dados Júnior ou Assistente de BI  
 
