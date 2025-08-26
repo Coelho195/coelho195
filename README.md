@@ -2,9 +2,6 @@
 
 Estudante de dados e em transição de carreira para a área de *Business Intelligence e Análise de Dados*.  
 
----
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=coelho195&show_icons=true&theme=radical)
----
 
 ## Sobre mim  
 - Concluí formações em Business Intelligence, Estatística para Análise de Dados, Power BI e SQL 
