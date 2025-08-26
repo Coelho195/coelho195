@@ -5,7 +5,7 @@
 ---
 
 ## 🚀 Sobre mim  
-- Concluí formações em Business Intelligence, Estatística para Análise de Dados, Power BI e PostgreSQL (básico para análise de dados)  
+- Concluí formações em Business Intelligence, Estatística para Análise de Dados, Power BI e SQL 
 - Atualmente estudando Python (aprendizado em andamento para análise de dados) 
 - Buscando minha primeira oportunidade como Analista de Dados Júnior ou Assistente de BI  
 
